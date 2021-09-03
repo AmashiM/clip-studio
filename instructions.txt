@@ -1,1 +1,9 @@
 just open terminal to this location and type "start.bat" in terminal
+
+also you need ffmpeg
+
+python packages needed
+PyQt5
+youtube_dl
+qdarkstyle
+moviepy
