@@ -1,0 +1,1 @@
+just open terminal to this location and type "start.bat" in terminal
